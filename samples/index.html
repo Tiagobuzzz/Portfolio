@@ -1,9 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Hello</title>
+    <meta charset="UTF-8">
+    <title>Sample Counter</title>
+    <style>
+        body { font-family: sans-serif; }
+        #count { font-size: 2em; }
+    </style>
 </head>
 <body>
-    <h1>Hello, world!</h1>
+    <button id="btn">Click me</button>
+    <div id="count">0</div>
+    <script>
+        let count = 0;
+        document.getElementById('btn').addEventListener('click', () => {
+            count++;
+            document.getElementById('count').textContent = count;
+        });
+    </script>
 </body>
 </html>
