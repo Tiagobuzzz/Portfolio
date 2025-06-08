@@ -39,6 +39,7 @@ public class Agent : MonoBehaviour
 }
 ```
 Mais exemplos podem ser encontrados na pasta [samples](samples/) do repositório.
+Alguns trechos técnicos do UltraWorld estão disponíveis em [ultraworld](ultraworld/).
 
 ---
 
@@ -90,6 +91,7 @@ public class Agent : MonoBehaviour
 }
 ```
 More examples can be found in the [samples](samples/) folder.
+Additional technical snippets from UltraWorld are in the [ultraworld](ultraworld/) directory.
 
 ---
 
