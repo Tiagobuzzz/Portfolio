@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// An example of an advanced agent for the UltraWorld simulator. This class
+/// An example of an agent for the UltraWorld simulator. This class
 /// demonstrates a simple emotional memory system combined with a state machine.
 /// </summary>
 public class AgentController : MonoBehaviour
