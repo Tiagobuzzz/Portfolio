@@ -38,6 +38,7 @@ public class Agent : MonoBehaviour
     }
 }
 ```
+Mais exemplos podem ser encontrados na pasta [samples](samples/) do repositório.
 
 ---
 
@@ -88,6 +89,7 @@ public class Agent : MonoBehaviour
     }
 }
 ```
+More examples can be found in the [samples](samples/) folder.
 
 ---
 
