@@ -49,6 +49,7 @@ Um rastreador de humor simples está em [moodmapper](moodmapper/).
 
 ## 📫 Como me contatar
 - **Discord:** tiagoessecarasoueu
+- **Todos os trabalhos:** [https://github.com/Tiagobuzzz](https://github.com/Tiagobuzzz)
 
 ---
 
