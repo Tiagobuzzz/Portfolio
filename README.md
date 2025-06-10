@@ -14,6 +14,9 @@ Sistema modular de narrativa com memória emocional, consequências e lógica pr
 ### 🌍 UltraWorld (privado)
 Simulador completo de civilizações emergentes com IA viva, clima emocional, religiões dinâmicas e criação divina.
 
+### 🙂 MoodMapper
+Ferramenta para visualizar e acompanhar estados emocionais.
+
 ### 🛠️ Outros Projetos
 - Sistema de construção procedural para jogos (em Unity)
 - Engine de moralidade e leis emergentes
@@ -40,6 +43,7 @@ public class Agent : MonoBehaviour
 ```
 Mais exemplos podem ser encontrados na pasta [samples](samples/) do repositório.
 Alguns trechos técnicos do UltraWorld estão disponíveis em [ultraworld](ultraworld/).
+Um rastreador de humor simples está em [moodmapper](moodmapper/).
 
 ---
 
@@ -65,6 +69,9 @@ A modular narrative system with emotional memory, consequences and procedural lo
 
 ### 🌍 UltraWorld (private)
 A complete simulator of emerging civilizations with living AI, emotional climate, dynamic religions and divine creation.
+
+### 🙂 MoodMapper
+Tool to visualize and track emotional states.
 
 ### 🛠️ Other Projects
 - Procedural building system for games (Unity)
@@ -92,6 +99,7 @@ public class Agent : MonoBehaviour
 ```
 More examples can be found in the [samples](samples/) folder.
 Additional technical snippets from UltraWorld are in the [ultraworld](ultraworld/) directory.
+A simple mood tracking tool is in the [moodmapper](moodmapper/) directory.
 
 ---
 
